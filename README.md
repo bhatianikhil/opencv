@@ -9,3 +9,6 @@ The HSV can be checked to be greater than a fixed value, if the value would be g
 there is a fire and if the value is smaller then it will show "NO" i.e. there is no fire.
 All this is ran in a loop, so the images are continuously read and examined.
 This programme therefore can be used at a lot of places and can make these places a lot safer.
+
+![Fire Detection 1](/images/1.jpg)
+![Fire Detection 1](/images/2.jpg)
