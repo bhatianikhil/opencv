@@ -11,4 +11,8 @@ All this is ran in a loop, so the images are continuously read and examined.
 This programme therefore can be used at a lot of places and can make these places a lot safer.
 
 ![Fire Detection 1](/images/1.jpg)
+Andhi aayi toofan aaya,
+mar gayi saari chitiya,
+lund choot ki hui ladai,
+tatte maare sitia
 ![Fire Detection 1](/images/2.jpg)
